@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PyGuy123
 - 👀 I’m interested in solving business process issues
-- 🌱 I’m currently learning computer science (Python)
+- 🌱 I’m currently going through the cs50 course online at Harvard
 - 💞️ I’m looking to collaborate on general dev principles and problems
 - 📫 How to reach me pyguy123@gmail.com
 
